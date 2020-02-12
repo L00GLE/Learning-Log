@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69722be4-d591-47d2-a8ff-f7f52204a459" name="Default Changelist" comment="">
+    <list default="true" id="69722be4-d591-47d2-a8ff-f7f52204a459" name="Default Changelist" comment="Updated version">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,10 +31,10 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,6 +63,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="640" y="125" key="#Notifications" timestamp="1581488370413">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state x="640" y="125" key="#Notifications/0.23.1440.873@0.23.1440.873" timestamp="1581488370413" />
     <state x="184" y="132" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581487822672">
       <screen x="0" y="23" width="1440" height="873" />
     </state>
@@ -73,27 +77,31 @@
     </state>
     <state x="442" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.896@0.0.1440.896" timestamp="1581389674423" />
     <state x="442" y="276" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.873@0.23.1440.873" timestamp="1581486393143" />
-    <state x="707" y="62" key="CommitChangelistDialog2" timestamp="1581487339435">
+    <state x="707" y="62" key="CommitChangelistDialog2" timestamp="1581488476854">
       <screen x="0" y="23" width="1440" height="873" />
     </state>
-    <state x="707" y="62" key="CommitChangelistDialog2/0.23.1440.873@0.23.1440.873" timestamp="1581487339435" />
+    <state x="707" y="62" key="CommitChangelistDialog2/0.23.1440.873@0.23.1440.873" timestamp="1581488476854" />
+    <state x="288" y="99" key="DiffContextDialog" timestamp="1581488402480">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state x="288" y="99" key="DiffContextDialog/0.23.1440.873@0.23.1440.873" timestamp="1581488402480" />
     <state x="772" y="188" key="RollbackChangesDialog" timestamp="1581476740999">
       <screen x="0" y="23" width="1440" height="873" />
     </state>
     <state x="772" y="188" key="RollbackChangesDialog/0.23.1440.873@0.23.1440.873" timestamp="1581476740999" />
-    <state x="110" y="102" key="SettingsEditor" timestamp="1581485596422">
+    <state x="110" y="102" key="SettingsEditor" timestamp="1581488542482">
       <screen x="0" y="23" width="1440" height="873" />
     </state>
     <state x="229" y="89" key="SettingsEditor/0.0.1440.896@0.0.1440.896" timestamp="1581388493320" />
-    <state x="110" y="102" key="SettingsEditor/0.23.1440.873@0.23.1440.873" timestamp="1581485596422" />
+    <state x="110" y="102" key="SettingsEditor/0.23.1440.873@0.23.1440.873" timestamp="1581488542482" />
     <state x="399" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1581485352472">
       <screen x="0" y="23" width="1440" height="873" />
     </state>
     <state x="399" y="282" key="com.intellij.ide.util.TipDialog/0.23.1440.873@0.23.1440.873" timestamp="1581485352472" />
-    <state x="865" y="383" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581487833143">
+    <state x="865" y="383" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581488390276">
       <screen x="0" y="23" width="1440" height="873" />
     </state>
-    <state x="865" y="383" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.873@0.23.1440.873" timestamp="1581487833143" />
+    <state x="865" y="383" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.873@0.23.1440.873" timestamp="1581488390276" />
     <state x="687" y="212" width="670" height="676" key="search.everywhere.popup" timestamp="1581459249088">
       <screen x="0" y="23" width="1440" height="873" />
     </state>
