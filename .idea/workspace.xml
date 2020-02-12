@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="69722be4-d591-47d2-a8ff-f7f52204a459" name="Default Changelist" comment="Updated version">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning_log/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning_log/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +32,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
@@ -57,6 +58,17 @@
         <option value="3" />
         <option value="1" />
       </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
@@ -89,10 +101,10 @@
       <screen x="0" y="23" width="1440" height="873" />
     </state>
     <state x="772" y="188" key="RollbackChangesDialog/0.23.1440.873@0.23.1440.873" timestamp="1581476740999" />
-    <state x="110" y="102" key="SettingsEditor" timestamp="1581488542482">
-      <screen x="0" y="23" width="1440" height="873" />
+    <state x="229" y="89" key="SettingsEditor" timestamp="1581490391300">
+      <screen x="0" y="0" width="1440" height="896" />
     </state>
-    <state x="229" y="89" key="SettingsEditor/0.0.1440.896@0.0.1440.896" timestamp="1581388493320" />
+    <state x="229" y="89" key="SettingsEditor/0.0.1440.896@0.0.1440.896" timestamp="1581490391300" />
     <state x="110" y="102" key="SettingsEditor/0.23.1440.873@0.23.1440.873" timestamp="1581488542482" />
     <state x="399" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1581485352472">
       <screen x="0" y="23" width="1440" height="873" />
