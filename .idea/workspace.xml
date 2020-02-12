@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69722be4-d591-47d2-a8ff-f7f52204a459" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore.DS_Store" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/P" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learning_log/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning_log/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +19,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1XdufgPJe7ZpvJHNl7ZGyYfw8hr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -55,16 +49,34 @@
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="requirements.txt" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581403994521">
-      <screen x="0" y="0" width="1440" height="896" />
+    <state x="184" y="132" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581487822672">
+      <screen x="0" y="23" width="1440" height="873" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.896@0.0.1440.896" timestamp="1581403994521" />
+    <state x="184" y="132" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.873@0.23.1440.873" timestamp="1581487822672" />
     <state x="442" y="276" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581486393143">
       <screen x="0" y="23" width="1440" height="873" />
     </state>
     <state x="442" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.896@0.0.1440.896" timestamp="1581389674423" />
     <state x="442" y="276" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.873@0.23.1440.873" timestamp="1581486393143" />
+    <state x="707" y="62" key="CommitChangelistDialog2" timestamp="1581487339435">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state x="707" y="62" key="CommitChangelistDialog2/0.23.1440.873@0.23.1440.873" timestamp="1581487339435" />
     <state x="772" y="188" key="RollbackChangesDialog" timestamp="1581476740999">
       <screen x="0" y="23" width="1440" height="873" />
     </state>
@@ -78,6 +90,10 @@
       <screen x="0" y="23" width="1440" height="873" />
     </state>
     <state x="399" y="282" key="com.intellij.ide.util.TipDialog/0.23.1440.873@0.23.1440.873" timestamp="1581485352472" />
+    <state x="865" y="383" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581487833143">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state x="865" y="383" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.873@0.23.1440.873" timestamp="1581487833143" />
     <state x="687" y="212" width="670" height="676" key="search.everywhere.popup" timestamp="1581459249088">
       <screen x="0" y="23" width="1440" height="873" />
     </state>
